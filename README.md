@@ -19,3 +19,4 @@
 - [Podlodka Teamlead Crew. CodeReview: долго, пл%хо, дорого. Групповой разбор.](https://www.youtube.com/watch?v=IDj3x__YZgE)
 - [Those pesky pull request reviews](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/)
 - [Code review: вы делаете это неправильно](https://habr.com/ru/company/badoo/blog/413965/)
+- [Design Review и другие друзья разработчика, Дельгядо Филипп](https://www.youtube.com/watch?v=4Y0XJXRZv6k)
