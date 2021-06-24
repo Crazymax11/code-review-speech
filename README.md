@@ -1,5 +1,10 @@
 # code-review-speech
 
+## Исследование Microsoft про эффективность Code Review
+
+[Expectations, Outcomes, and Challenges Of Modern Code Review](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ICSE202013-codereview.pdf)
+
+тлдр: основной блокер для эффективных Code Review - это то что ревьюерам сложно войти в контекст изменений. Из-за этого Code Review очень плохо справляется с основной задачей - поиск багов.
 
 ## Code Review is Good
 
