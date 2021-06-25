@@ -24,4 +24,9 @@
 - [Podlodka Teamlead Crew. CodeReview: долго, пл%хо, дорого. Групповой разбор.](https://www.youtube.com/watch?v=IDj3x__YZgE)
 - [Those pesky pull request reviews](https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/)
 - [Code review: вы делаете это неправильно](https://habr.com/ru/company/badoo/blog/413965/)
-- [Design Review и другие друзья разработчика, Дельгядо Филипп](https://www.youtube.com/watch?v=4Y0XJXRZv6k)
+
+## Design Review и другие друзья разработчика, Дельгядо Филипп
+
+Доклад Филиппа Дельгядо про разные виды peer review (code review - это один из вариантов peer review). Крутой и обстоятельный доклад про то, как убедиться что код - хороший, до вливания в мастер.
+
+[Design Review и другие друзья разработчика, Дельгядо Филипп](https://www.youtube.com/watch?v=4Y0XJXRZv6k)
