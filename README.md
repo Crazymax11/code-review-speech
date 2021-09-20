@@ -14,7 +14,7 @@
 - [Как мы спасали код-ревью](https://habr.com/ru/company/yoomoney/blog/446654/)
 - [Good Code Reviews, Better Code Reviews](https://blog.pragmaticengineer.com/good-code-reviews-better-code-reviews/)
 - [Процесс ревью кода в hh.ru](https://habr.com/ru/company/hh/blog/422399/)
-
+- [Conventional Comments](https://conventionalcomments.org/)
 
 ## Code Review is Waste of Time
 
