@@ -26,6 +26,7 @@
 - [Code review: вы делаете это неправильно](https://habr.com/ru/company/badoo/blog/413965/)
 - [No code reviews by default](https://raycast.com/blog/no-code-reviews-by-default)
 - [Ship, Show, Ask](https://martinfowler.com/articles/ship-show-ask.html)
+- [Podlodka #251 — Peer Review](https://podlodka.io/251)
 
 ## Design Review и другие друзья разработчика, Дельгядо Филипп
 
