@@ -28,7 +28,13 @@
 - [Ship, Show, Ask](https://martinfowler.com/articles/ship-show-ask.html)
 - [Podlodka #251 — Peer Review](https://podlodka.io/251)
 
-## Design Review и другие друзья разработчика, Дельгядо Филипп
+## Альтернативы
+
+### Парное программирование
+
+- [Статья в блоге Мартина Фаулера, разбирающая практику парного программирования](https://martinfowler.com/articles/on-pair-programming.html)
+
+### Design Review и другие друзья разработчика, Дельгядо Филипп
 
 Доклад Филиппа Дельгядо про разные виды peer review (code review - это один из вариантов peer review). Крутой и обстоятельный доклад про то, как убедиться что код - хороший, до вливания в мастер.
 
