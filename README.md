@@ -39,7 +39,3 @@
 Доклад Филиппа Дельгядо про разные виды peer review (code review - это один из вариантов peer review). Крутой и обстоятельный доклад про то, как убедиться что код - хороший, до вливания в мастер.
 
 [Design Review и другие друзья разработчика, Дельгядо Филипп](https://www.youtube.com/watch?v=4Y0XJXRZv6k)
-
-## доклад с MoscowJS - Review Code Review (мой доклад)
-
-https://www.youtube.com/watch?v=JYSgnokT4_g
